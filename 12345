@@ -1,0 +1,31 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package variables;
+
+/**
+ *
+ * @author labcca
+ */
+public class Variables {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+       //TODO code application logic here
+        String area1  = "estudiar ejercicios";
+        String tarea2 = "estudiar ciencias basicas";
+        String tarea3 = "hacer la investigacion de programacion";
+        String tarea4 = "estudiar para examen";
+        String tarea5 = "hacer resumen";
+     
+        System.out.println("la primera tarea a realizar es " + tarea 1);
+        System.out.println("la segunda tarea a realizar es " + tarea 2);
+        System.out.println("la tercera tarea a realizar es " + tarea 3);
+        System.out.println("la cuarta tarea a realizar es " + tarea 4);
+        System.out.println("la quinta tarea a realizar es " + tarea 5);
+    }
+    
+}
